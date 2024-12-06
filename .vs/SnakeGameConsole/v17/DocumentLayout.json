@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SnakeGameConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07482ED-18A1-48E1-AFE6-8A65BC013D60}|SnakeGameConsole.vcxproj|C:\\Users\\user\\source\\repos\\SnakeGameConsole\\SnakeGameConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07482ED-18A1-48E1-AFE6-8A65BC013D60}|SnakeGameConsole.vcxproj|solutionrelative:SnakeGameConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGameConsole.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SnakeGameConsole\\SnakeGameConsole.cpp",
+              "RelativeDocumentMoniker": "SnakeGameConsole.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SnakeGameConsole\\SnakeGameConsole.cpp",
+              "RelativeToolTip": "SnakeGameConsole.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T08:08:16.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
